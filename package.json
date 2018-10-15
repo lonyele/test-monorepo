@@ -5,6 +5,7 @@
   },
   "name": "test-monorepo",
   "devDependencies": {
+    "@types/node": "^10.11.7",
     "lerna": "^3.4.1"
   }
 }
